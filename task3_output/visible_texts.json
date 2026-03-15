@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Please select all boxes with number 756",
+    "tag": "DIV",
+    "id": "makwodc",
+    "class": "col-12 box-label ihuvn malfbhxt fhipt",
+    "x": 475,
+    "y": 46
+  },
+  {
+    "text": "Clear Selection",
+    "tag": "P",
+    "id": "",
+    "class": "img-action-text",
+    "x": 483,
+    "y": 486
+  },
+  {
+    "text": "Reload Images",
+    "tag": "P",
+    "id": "",
+    "class": "img-action-text",
+    "x": 588,
+    "y": 486
+  },
+  {
+    "text": "Submit Selection",
+    "tag": "P",
+    "id": "",
+    "class": "img-action-text",
+    "x": 692,
+    "y": 486
+  }
+]
