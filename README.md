@@ -1,4 +1,4 @@
-# ABM Egypt — Automation Engineer Assessment
+# ABM Egypt — Python Developer Assessment (Automation & Crawling)
 
 Three automation tasks built with Python + Playwright (via `patchright`) covering stealth browser automation, network interception, and DOM scraping.
 
